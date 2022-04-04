@@ -9,8 +9,9 @@ Create loan
 ![Screenshot](2.jpg)
 Get details
 ![Screenshot](3.jpg)
-Return Loan
+Interest on loan
 ![Screenshot](4.jpg)
+Return Loan
 ![Screenshot](5.jpg)
 Get all loans
 ![Screenshot](6.jpg)
